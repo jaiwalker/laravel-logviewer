@@ -2,7 +2,7 @@
 
 ## Description
 
-This package allows you to keep track of each one of your logs stored under `storage_path().'/logs'`. Minimal configuration required. 
+This package allows you to keep track of each one of your logs stored under `storage_path().'/logs'`. Minimal configuration required. This project was inspired by [this project](https://github.com/rap2hpoutre/laravel-log-viewer)
 
 ## Features
 
