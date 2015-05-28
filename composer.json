@@ -1,6 +1,7 @@
 {
     "name": "javobyte/laravel-logviewer",
     "description": "Laravel Log Viewer",
+    "license" : "MIT",
     "authors": [
         {
             "name": "Javier Enríquez Lávida",
