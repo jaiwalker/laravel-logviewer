@@ -1,0 +1,63 @@
+.log-entry .date {
+  width: 10%;
+  white-space: nowrap;
+}
+
+.log-entry .time {
+  width: 10%;
+  white-space: nowrap;
+}
+
+.log-entry .channel {
+  width: 10%;
+}
+
+.log-entry .level {
+  width: 10%;
+  white-space: nowrap;
+}
+
+.log-entry .content {
+  width: 60%;
+}
+
+.log-entry.log-error .content,
+.log-entry.log-critical .content,
+.log-entry.log-alert .content,
+.log-entry.log-emergency .content{
+  font-size: 75%;
+}
+
+.log-debug .level{
+  color: #00A316;
+}
+
+.log-info .level{
+  color: #00A3E8;
+}
+
+.log-notice .level{
+  color: #696969;
+}
+
+.log-warning .level{
+  color: #FFC400;
+}
+
+.log-error .level{
+  color: #B00000;
+}
+
+.log-critical .level{
+  color: #E00000;
+}
+
+.log-alert .level{
+  color: #ED0000;
+  font-weight: bold;
+}
+
+.log-emergency .level{
+  color: #FF0000;
+  font-weight: bold;
+}

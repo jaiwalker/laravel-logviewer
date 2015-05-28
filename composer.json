@@ -1,0 +1,23 @@
+{
+    "name": "javobyte/laravel-logviewer",
+    "description": "Laravel Log Viewer",
+    "authors": [
+        {
+            "name": "Javier Enríquez Lávida",
+            "email": "javier.lavida@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*|5.0.*"
+    },
+    "autoload": {
+        "classmap" : [
+            "src/resources/controllers"    
+        ],
+        "psr-0": {
+            "JavoByte\\Logviewer": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
