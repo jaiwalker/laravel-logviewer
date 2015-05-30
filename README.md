@@ -17,7 +17,7 @@ This package allows you to keep track of each one of your logs stored under `sto
 
 Install with composer
 ```
-composer require javobyte/laravel-logviewer
+composer require javobyte/laravel-logviewer:dev-master
 ```
 
 Add the service provider in your `config/app.php` file
