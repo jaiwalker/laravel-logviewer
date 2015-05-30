@@ -1,6 +1,7 @@
 {
     "name": "javobyte/laravel-logviewer",
     "description": "Laravel Log Viewer",
+    "keywords" : ["laravel", "log-reader", "log-viewer", "tail-log", "logging", "cat-log"],
     "license" : "MIT",
     "authors": [
         {
